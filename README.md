@@ -1,2 +1,3 @@
 # hello-world
-first steps in github
+This is my first try of github.
+My name is Rikkie.
